@@ -151,7 +151,7 @@ Everything is fine and working as expected. But, if we wish to add path aliases 
     "paths": {
       "@/*": ["src/*"]
     }
-  },
+  }
 }
 ```
 
